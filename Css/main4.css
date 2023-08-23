@@ -1,0 +1,21 @@
+.roundedpic{
+    border-radius: 50% ;
+    width: auto;
+    height: 20px;
+    display: block;
+  }
+  button{
+    text-align: center;
+    background-color: rgb(248, 48, 115);
+    color: black;
+    padding: 10px;
+    border: none;
+}
+.blog{
+  text-align: center;
+  background-color: rgba(228, 227, 227, 0.973);
+  color: black;
+  padding: 7px;
+  border: none;
+  border-radius: 20%;
+}

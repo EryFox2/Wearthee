@@ -1,0 +1,19 @@
+img{
+    height:650px; width:1065px;
+}
+head{
+    background-color: rgb(253, 76, 253);
+}
+<div  style="background-image: url('image/1st1.jpg')">
+      <!--2nd-->
+      <img src="image/2nd.jpg"/>   
+     </div>
+     <div>
+      <!--3rd-->
+      <img src="image/3rd.jpg"/>   
+     </div>
+    </body>
+    <footer>
+      <img src="image/footer.jpg"/>
+    </footer>
+ 
